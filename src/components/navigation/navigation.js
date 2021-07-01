@@ -18,7 +18,7 @@ const Navigation = (props) => {
          
           <li className="nav-item">
             <NavLink to="/store" className="nav-link">
-              Store
+              Game Store
             </NavLink>
           </li>
 

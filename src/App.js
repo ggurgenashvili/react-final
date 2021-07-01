@@ -6,6 +6,7 @@ import AuthPage from "./pages/auth";
 import Theme from "./components/theme";
 import Navigation from "./components/navigation";
 import Store from "./pages/store";
+import './App.css';
 
 function App() {
   return (
